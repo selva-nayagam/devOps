@@ -1,1 +1,8 @@
 2024-10-21 13:29:41,278 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-22 13:22:57,052 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-22 13:24:34,763 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:server:1.0-SNAPSHOT @ C:\Users\Admin\Chennai\devOps\server\pom.xml.
+2024-10-22 13:24:39,660 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Admin\Chennai\devOps\server\src\main\resources
+2024-10-22 13:24:39,680 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Admin\Chennai\devOps\server\src\test\resources
+2024-10-22 13:24:41,610 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:webapp:1.0-SNAPSHOT @ C:\Users\Admin\Chennai\devOps\webapp\pom.xml.
+2024-10-22 13:24:43,754 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Admin\Chennai\devOps\webapp\src\main\resources
+2024-10-22 13:24:43,760 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Admin\Chennai\devOps\webapp\src\test\resources
